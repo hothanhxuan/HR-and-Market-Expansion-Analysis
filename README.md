@@ -38,22 +38,6 @@ Key questions to answer:
 
 ---
 
-## ✅ Expected Deliverables
-The final submission should include a **Google Drive folder** containing:
-- A **Power BI file (.pbix)** with analytical dashboards + 1 extra page for your own **recommendations & insights**.  
-- A **Design Thinking spreadsheet** (based on the provided template).  
-
-📎 Design Thinking Template: *Design Thinking Ver 4 | Google Sheets*  
-
----
-
-## 📅 Milestones
-- **Version 1**: Before Training 18 (Project 04 Support).  
-- **Version 2**: Before Training 19 (Optimization & publishing).  
-- **Version 3**: Final review & completion.  
-
----
-
 ## 🛠️ Workflow
 1. Review the project brief and dataset.  
 2. Complete the **Empathy** section in the Design Thinking file.  
