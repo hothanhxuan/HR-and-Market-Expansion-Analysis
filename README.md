@@ -1,75 +1,88 @@
-# HR-and-Market-Expansion-Analysis
+# 📊 Project 2: Global Superstore Sales Dashboard
 
-## I. Introduction
+## 🎯 Objective
+The goal of this project is to build an **analytic dashboard** using Power BI.  
+Through this project, we will practice:
+- Understanding stakeholder reporting needs.  
+- Designing dashboard layout, structure, and color themes.  
+- Building interactions within reports.  
+- Creating structured content with clear messaging.  
+- Reviewing and continuously improving dashboards.  
 
-### 1. Introduction to Dataset
+---
 
-- User churn refers to the phenomenon of customers or users of a product or service disengaging or ceasing to use it over time, which can be detrimental to the business.
-- Understanding the reasons why users churn can help companies develop strategies to retain their customers and improve their overall product or service.
-- The dataset includes a **dim table** containing information about users of a telecommunications network company, including fields of demographic information and information related to the **user's churn**.
+## 🌍 Introduction
+The dataset contains global sales information from **Superstore**, a company operating across multiple markets and continents.  
+As the company is expanding rapidly, management needs insights to **grow revenue and increase market share**.  
 
-### 2. Data Dictionary
+---
 
-![https://user-images.githubusercontent.com/101726623/235169073-19d9f2bf-781c-4edf-902f-6182f0dbece6.png](https://user-images.githubusercontent.com/101726623/235169073-19d9f2bf-781c-4edf-902f-6182f0dbece6.png)
+## 📂 Dataset Structure
+The dataset includes **3 main tables**:
+1. **Orders** – records of transactions.  
+2. **People** – information about sales representatives in each region.  
+3. **Returns** – records of returned transactions.  
 
-### 3. Business Questions
+📎 Dataset & Project Brief: [Google Drive Link](https://drive.google.com/drive/folders/1OW-Ki2sBmwIvCQp4xPArtwz_p_z8Vcbl)  
 
-- Create an overview dashboard for managers that displays the churn status of users and helps identify which users are part of the churn group.
-- Develop solutions to improve the situation and reduce user churn.
+---
 
-## II. Design Thinking Method
+## ❓ Business Case
+The **Senior Manager** needs a dashboard to support strategic decisions.  
+Key questions to answer:
+1. **What is the overall business performance?**  
+2. **How are different markets performing?**  
+3. **What is the performance of each product category?**  
 
-**Here are the five steps of design thinking:**
+📌 Requirement: Build a **Power BI dashboard** that addresses these business questions.  
 
-### Step 1 - Empathize
+---
 
-![https://user-images.githubusercontent.com/101726623/235357284-5e2e56fd-40c7-48c0-a52f-5a5dc8030405.png](https://user-images.githubusercontent.com/101726623/235357284-5e2e56fd-40c7-48c0-a52f-5a5dc8030405.png)
+## ✅ Expected Deliverables
+The final submission should include a **Google Drive folder** containing:
+- A **Power BI file (.pbix)** with analytical dashboards + 1 extra page for your own **recommendations & insights**.  
+- A **Design Thinking spreadsheet** (based on the provided template).  
 
-### Step 2 - Define
+📎 Design Thinking Template: *Design Thinking Ver 4 | Google Sheets*  
 
-![https://user-images.githubusercontent.com/101726623/235358015-2a391a13-ec5f-421d-91b6-0df8b2af3fcf.png](https://user-images.githubusercontent.com/101726623/235358015-2a391a13-ec5f-421d-91b6-0df8b2af3fcf.png)
+---
 
-### Step 3 - Ideate
+## 📅 Milestones
+- **Version 1**: Before Training 18 (Project 04 Support).  
+- **Version 2**: Before Training 19 (Optimization & publishing).  
+- **Version 3**: Final review & completion.  
 
-![https://user-images.githubusercontent.com/101726623/235357450-4dbcdbdf-eff6-4c30-8d54-799ff874ddcb.png](https://user-images.githubusercontent.com/101726623/235357450-4dbcdbdf-eff6-4c30-8d54-799ff874ddcb.png)
+---
 
-### Step 4 - Prototype
+## 🛠️ Workflow
+1. Review the project brief and dataset.  
+2. Complete the **Empathy** section in the Design Thinking file.  
+3. Explore reference dashboards (Power BI, Tableau, Maven).  
+4. Work on **Point of View** and **Ideate**.  
+5. Learn about color theory and select a theme.  
+6. Build **Version 1** dashboard.  
+7. Continuously refine by **switching perspective as a stakeholder**.  
+8. Build **Version 2** and validate against Design Thinking iterations.  
+9. Finalize **Version 3**.  
 
-![https://user-images.githubusercontent.com/101726623/235357373-b7f1802f-e3b8-459e-b1d9-244231c66c53.png](https://user-images.githubusercontent.com/101726623/235357373-b7f1802f-e3b8-459e-b1d9-244231c66c53.png)
+⚠️ **Note**: A professional dashboard must combine **layout, colors, and meaningful insights**. Since this project can be part of your **portfolio for job applications**, ensure high-quality output.  
 
-### Step 5 - Review
+---
 
-![https://user-images.githubusercontent.com/101726623/235357385-b0d208b7-5f27-462a-9473-576e59efe14c.png](https://user-images.githubusercontent.com/101726623/235357385-b0d208b7-5f27-462a-9473-576e59efe14c.png)
+## 🎨 Resources
+- **Color & Themes**  
+  - [ColorSpace](https://mycolor.space/)  
+  - [Coolors](https://coolors.co/)  
+  - [Data Viz Color Palette Generator](https://learnui.design/tools/data-color-picker.html)  
+- **Tutorial Videos**  
+  - [How to Choose Colors](https://www.youtube.com/watch?v=JDs7IP4cAxE)  
+  - [Importing Themes in Power BI](https://www.youtube.com/watch?v=3JDs7IP4cAxE)  
+  - [Bar Chart Customization](https://www.youtube.com/watch?v=8h2r8ZrYvK4)  
+- **Reference Dashboards**  
+  - [Power BI Theme Gallery](https://community.fabric.microsoft.com/t5/Themes-Gallery/bd-p/ThemesGallery)  
 
-## III. Visualization
+---
 
-### 1. Customer churn overview
-
-![https://user-images.githubusercontent.com/101726623/235357781-bbcb4924-da08-4c5f-ae80-6be9e28d28d4.png](https://user-images.githubusercontent.com/101726623/235357781-bbcb4924-da08-4c5f-ae80-6be9e28d28d4.png)
-
-### 2. Age, ayment method, contract and charges
-
-![https://user-images.githubusercontent.com/101726623/235357989-ab6cd548-8070-4b53-836d-1a07bc8e708e.png](https://user-images.githubusercontent.com/101726623/235357989-ab6cd548-8070-4b53-836d-1a07bc8e708e.png)
-
-### 3. Customer Service Problems
-
-![https://user-images.githubusercontent.com/101726623/235357815-7d44f7a4-73e1-4f70-afed-72200abb5b21.png](https://user-images.githubusercontent.com/101726623/235357815-7d44f7a4-73e1-4f70-afed-72200abb5b21.png)
-
-### 4. Monthly GB download and Extra charges
-
-![https://user-images.githubusercontent.com/101726623/235357829-05f48376-a3c3-47a1-ac59-4aec3f451f77.png](https://user-images.githubusercontent.com/101726623/235357829-05f48376-a3c3-47a1-ac59-4aec3f451f77.png)
-
-## IV. Insights
-
-- Competitors have better offers + prices than our company.
-- Our customer service is not good, churn customers have a much higher avg customer service call rate = 2.4 than average.
-- Customers who use 0 - 10 gb of monthly download and subscribe to Unlimited Data plan have a higher churn rate than the rest of the group.
-- Customers with "month to month" contracts have a high churn rate of almost 90%.
-
-## V. Recommendations
-
-- Need to improve customer service: optimize the problem-solving process: quickly for customers, avoid the situation that customers call many times without solving the problem.
-- It is necessary to have online + phone consultants to solve the problems that customers encounter
-- Customers who sign up for a month to month contract need to have incentives for: top up, preferential data packages to retain this group of customers.
-- Need to improve the unlimited data package in terms of price or create a really preferential data package for the group of customers who need to use from 0 to 10 gb monthly.
-- Create great offers for new customers, but also have incentives and gratitude for loyal customers, but customers churn because competitors are better than our company 45% of the reason for churn.
+## 📌 Final Note
+> *“This project is an opportunity to create a professional portfolio dashboard.  
+> Always put yourself in the stakeholder’s shoes, and deliver reports that are clear, visually appealing, and rich with insights.”*  
